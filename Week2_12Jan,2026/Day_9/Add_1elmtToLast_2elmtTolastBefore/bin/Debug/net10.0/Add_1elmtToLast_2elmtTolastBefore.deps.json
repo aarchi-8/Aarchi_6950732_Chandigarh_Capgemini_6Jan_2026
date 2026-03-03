@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Add_1elmtToLast_2elmtTolastBefore/1.0.0": {
+        "runtime": {
+          "Add_1elmtToLast_2elmtTolastBefore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add_1elmtToLast_2elmtTolastBefore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

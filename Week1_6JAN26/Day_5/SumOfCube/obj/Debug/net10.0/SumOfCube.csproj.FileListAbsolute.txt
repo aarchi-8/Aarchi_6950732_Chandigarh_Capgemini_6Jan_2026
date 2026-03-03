@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\bin\Debug\net10.0\SumOfCube.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\bin\Debug\net10.0\SumOfCube.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\bin\Debug\net10.0\SumOfCube.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\bin\Debug\net10.0\SumOfCube.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\bin\Debug\net10.0\SumOfCube.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\refint\SumOfCube.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\SumOfCube.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfCube\obj\Debug\net10.0\ref\SumOfCube.dll

@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\bin\Debug\net10.0\Count couple.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\bin\Debug\net10.0\Count couple.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\bin\Debug\net10.0\Count couple.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\bin\Debug\net10.0\Count couple.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\bin\Debug\net10.0\Count couple.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\refint\Count couple.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\Count couple.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_27\Count couple\obj\Debug\net10.0\ref\Count couple.dll

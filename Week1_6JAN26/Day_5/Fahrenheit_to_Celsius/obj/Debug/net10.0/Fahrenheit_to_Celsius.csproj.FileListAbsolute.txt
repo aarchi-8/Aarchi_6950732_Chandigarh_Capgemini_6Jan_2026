@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\bin\Debug\net10.0\Fahrenheit_to_Celsius.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\bin\Debug\net10.0\Fahrenheit_to_Celsius.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\bin\Debug\net10.0\Fahrenheit_to_Celsius.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\bin\Debug\net10.0\Fahrenheit_to_Celsius.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\bin\Debug\net10.0\Fahrenheit_to_Celsius.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\refint\Fahrenheit_to_Celsius.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\Fahrenheit_to_Celsius.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\Fahrenheit_to_Celsius\obj\Debug\net10.0\ref\Fahrenheit_to_Celsius.dll

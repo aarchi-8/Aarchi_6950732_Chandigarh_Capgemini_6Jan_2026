@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\bin\Debug\net10.0\Phone number.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\bin\Debug\net10.0\Phone number.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\bin\Debug\net10.0\Phone number.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\bin\Debug\net10.0\Phone number.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\bin\Debug\net10.0\Phone number.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\refint\Phone number.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\Phone number.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Phone number\obj\Debug\net10.0\ref\Phone number.dll

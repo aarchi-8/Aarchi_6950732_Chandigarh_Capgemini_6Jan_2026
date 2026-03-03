@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SumOfAVGOf_ODD_Even/1.0.0": {
+        "runtime": {
+          "SumOfAVGOf_ODD_Even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfAVGOf_ODD_Even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

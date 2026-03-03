@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\bin\Debug\net10.0\RemoveNegatives.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\bin\Debug\net10.0\RemoveNegatives.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\bin\Debug\net10.0\RemoveNegatives.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\bin\Debug\net10.0\RemoveNegatives.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\bin\Debug\net10.0\RemoveNegatives.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\refint\RemoveNegatives.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\RemoveNegatives.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_1\RemoveNegatives\obj\Debug\net10.0\ref\RemoveNegatives.dll

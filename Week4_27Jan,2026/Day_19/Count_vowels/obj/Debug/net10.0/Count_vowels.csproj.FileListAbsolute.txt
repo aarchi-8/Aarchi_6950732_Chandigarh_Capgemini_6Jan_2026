@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\bin\Debug\net10.0\Count_vowels.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\bin\Debug\net10.0\Count_vowels.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\bin\Debug\net10.0\Count_vowels.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\bin\Debug\net10.0\Count_vowels.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\bin\Debug\net10.0\Count_vowels.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\refint\Count_vowels.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\Count_vowels.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Count_vowels\obj\Debug\net10.0\ref\Count_vowels.dll

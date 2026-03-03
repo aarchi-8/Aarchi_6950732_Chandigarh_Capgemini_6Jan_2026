@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\bin\Debug\net10.0\SumOfPrime.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\bin\Debug\net10.0\SumOfPrime.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\bin\Debug\net10.0\SumOfPrime.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\bin\Debug\net10.0\SumOfPrime.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\bin\Debug\net10.0\SumOfPrime.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\refint\SumOfPrime.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\SumOfPrime.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\SumOfPrime\obj\Debug\net10.0\ref\SumOfPrime.dll

@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\bin\Debug\net10.0\Sort_Insert_elemt.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\bin\Debug\net10.0\Sort_Insert_elemt.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\bin\Debug\net10.0\Sort_Insert_elemt.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\bin\Debug\net10.0\Sort_Insert_elemt.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\bin\Debug\net10.0\Sort_Insert_elemt.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\refint\Sort_Insert_elemt.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\Sort_Insert_elemt.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Sort_Insert_elemt\obj\Debug\net10.0\ref\Sort_Insert_elemt.dll

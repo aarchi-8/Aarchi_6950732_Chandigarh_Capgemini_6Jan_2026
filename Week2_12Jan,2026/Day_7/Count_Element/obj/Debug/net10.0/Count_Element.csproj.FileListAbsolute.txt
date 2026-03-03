@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\bin\Debug\net10.0\Count_Element.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\bin\Debug\net10.0\Count_Element.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\bin\Debug\net10.0\Count_Element.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\bin\Debug\net10.0\Count_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\bin\Debug\net10.0\Count_Element.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\refint\Count_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\Count_Element.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Count_Element\obj\Debug\net10.0\ref\Count_Element.dll

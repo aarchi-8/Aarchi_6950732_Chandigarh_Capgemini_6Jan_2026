@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\bin\Debug\net10.0\Handson_5.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\bin\Debug\net10.0\Handson_5.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\bin\Debug\net10.0\Handson_5.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\bin\Debug\net10.0\Handson_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\bin\Debug\net10.0\Handson_5.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\refint\Handson_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\Handson_5.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day 4\Handson_5\obj\Debug\net10.0\ref\Handson_5.dll

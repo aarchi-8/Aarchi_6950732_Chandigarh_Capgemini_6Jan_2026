@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\bin\Debug\net10.0\MultiplyPositive.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\bin\Debug\net10.0\MultiplyPositive.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\bin\Debug\net10.0\MultiplyPositive.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\bin\Debug\net10.0\MultiplyPositive.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\bin\Debug\net10.0\MultiplyPositive.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\refint\MultiplyPositive.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\MultiplyPositive.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_4\MultiplyPositive\obj\Debug\net10.0\ref\MultiplyPositive.dll

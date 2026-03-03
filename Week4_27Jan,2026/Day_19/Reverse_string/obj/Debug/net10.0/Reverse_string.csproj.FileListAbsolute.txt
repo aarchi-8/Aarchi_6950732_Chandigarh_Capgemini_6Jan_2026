@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\bin\Debug\net10.0\Reverse_string.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\bin\Debug\net10.0\Reverse_string.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\bin\Debug\net10.0\Reverse_string.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\bin\Debug\net10.0\Reverse_string.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\bin\Debug\net10.0\Reverse_string.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\refint\Reverse_string.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\Reverse_string.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_19\Reverse_string\obj\Debug\net10.0\ref\Reverse_string.dll

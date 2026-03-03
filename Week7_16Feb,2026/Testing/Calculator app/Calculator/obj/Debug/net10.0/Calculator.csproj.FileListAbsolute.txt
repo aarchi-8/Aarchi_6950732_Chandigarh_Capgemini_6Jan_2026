@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week7_16Feb,2026\Calculator app\Calculator\obj\Debug\net10.0\ref\Calculator.dll

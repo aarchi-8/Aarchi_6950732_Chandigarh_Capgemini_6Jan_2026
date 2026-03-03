@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\bin\Debug\net10.0\Email validation.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\bin\Debug\net10.0\Email validation.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\bin\Debug\net10.0\Email validation.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\bin\Debug\net10.0\Email validation.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\bin\Debug\net10.0\Email validation.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\refint\Email validation.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\Email validation.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Email validation\obj\Debug\net10.0\ref\Email validation.dll

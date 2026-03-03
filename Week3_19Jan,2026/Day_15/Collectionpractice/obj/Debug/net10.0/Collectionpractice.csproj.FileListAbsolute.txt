@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\bin\Debug\net10.0\Collectionpractice.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\bin\Debug\net10.0\Collectionpractice.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\bin\Debug\net10.0\Collectionpractice.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\bin\Debug\net10.0\Collectionpractice.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\bin\Debug\net10.0\Collectionpractice.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\refint\Collectionpractice.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\Collectionpractice.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week3_19Jan,2026\Day_15\Collectionpractice\obj\Debug\net10.0\ref\Collectionpractice.dll

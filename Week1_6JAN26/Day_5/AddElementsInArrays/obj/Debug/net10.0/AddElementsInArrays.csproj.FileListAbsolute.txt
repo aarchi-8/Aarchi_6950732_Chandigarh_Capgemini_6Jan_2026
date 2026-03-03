@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\bin\Debug\net10.0\AddElementsInArrays.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\bin\Debug\net10.0\AddElementsInArrays.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\bin\Debug\net10.0\AddElementsInArrays.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\bin\Debug\net10.0\AddElementsInArrays.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\bin\Debug\net10.0\AddElementsInArrays.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\refint\AddElementsInArrays.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\AddElementsInArrays.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\AddElementsInArrays\obj\Debug\net10.0\ref\AddElementsInArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\bin\Debug\net10.0\Product_MAX&MIN.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\bin\Debug\net10.0\Product_MAX&MIN.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\bin\Debug\net10.0\Product_MAX&MIN.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\bin\Debug\net10.0\Product_MAX&MIN.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\bin\Debug\net10.0\Product_MAX&MIN.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\refint\Product_MAX&MIN.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\Product_MAX&MIN.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_9\Product_MAX&MIN\obj\Debug\net10.0\ref\Product_MAX&MIN.dll

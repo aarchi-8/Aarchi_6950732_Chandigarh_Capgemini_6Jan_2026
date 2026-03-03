@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\bin\Debug\net10.0\Search_Element.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\bin\Debug\net10.0\Search_Element.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\bin\Debug\net10.0\Search_Element.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\bin\Debug\net10.0\Search_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\bin\Debug\net10.0\Search_Element.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\refint\Search_Element.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\Search_Element.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_2\Search_Element\obj\Debug\net10.0\ref\Search_Element.dll

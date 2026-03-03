@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\bin\Debug\net10.0\Location code update.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\bin\Debug\net10.0\Location code update.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\bin\Debug\net10.0\Location code update.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\bin\Debug\net10.0\Location code update.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\bin\Debug\net10.0\Location code update.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\refint\Location code update.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\Location code update.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\Location code update\obj\Debug\net10.0\ref\Location code update.dll

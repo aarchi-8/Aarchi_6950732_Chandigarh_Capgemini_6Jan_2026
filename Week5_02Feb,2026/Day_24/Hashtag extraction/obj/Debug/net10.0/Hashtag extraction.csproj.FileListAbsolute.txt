@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\bin\Debug\net10.0\Hashtag extraction.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\bin\Debug\net10.0\Hashtag extraction.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\bin\Debug\net10.0\Hashtag extraction.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\bin\Debug\net10.0\Hashtag extraction.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\bin\Debug\net10.0\Hashtag extraction.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\refint\Hashtag extraction.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\Hashtag extraction.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_23\Hashtag extraction\obj\Debug\net10.0\ref\Hashtag extraction.dll

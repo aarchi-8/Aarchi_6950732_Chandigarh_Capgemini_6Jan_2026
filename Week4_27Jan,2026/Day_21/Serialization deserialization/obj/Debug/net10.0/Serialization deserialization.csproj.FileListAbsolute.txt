@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\bin\Debug\net10.0\Serialization deserialization.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\bin\Debug\net10.0\Serialization deserialization.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\bin\Debug\net10.0\Serialization deserialization.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\bin\Debug\net10.0\Serialization deserialization.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\bin\Debug\net10.0\Serialization deserialization.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\refint\Serialization deserialization.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\Serialization deserialization.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Serialization deserialization\obj\Debug\net10.0\ref\Serialization deserialization.dll

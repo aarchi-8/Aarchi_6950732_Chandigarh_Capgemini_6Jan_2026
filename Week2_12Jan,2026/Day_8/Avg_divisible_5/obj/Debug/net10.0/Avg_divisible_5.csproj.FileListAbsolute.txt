@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\bin\Debug\net10.0\Avg_divisible_5.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\bin\Debug\net10.0\Avg_divisible_5.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\bin\Debug\net10.0\Avg_divisible_5.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\bin\Debug\net10.0\Avg_divisible_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\bin\Debug\net10.0\Avg_divisible_5.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\refint\Avg_divisible_5.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\Avg_divisible_5.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_3\Avg_divisible_5\obj\Debug\net10.0\ref\Avg_divisible_5.dll

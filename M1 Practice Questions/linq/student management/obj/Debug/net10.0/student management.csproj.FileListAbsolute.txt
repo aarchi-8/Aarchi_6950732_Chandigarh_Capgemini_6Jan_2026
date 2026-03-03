@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\bin\Debug\net10.0\student management.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\bin\Debug\net10.0\student management.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\bin\Debug\net10.0\student management.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\bin\Debug\net10.0\student management.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\bin\Debug\net10.0\student management.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\refint\student management.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\student management.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\M1 Practice Questions\linq\student management\obj\Debug\net10.0\ref\student management.dll

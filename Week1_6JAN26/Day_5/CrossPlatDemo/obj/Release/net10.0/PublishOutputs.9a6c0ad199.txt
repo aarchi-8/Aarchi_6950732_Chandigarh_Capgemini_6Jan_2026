@@ -1,0 +1,5 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.pdb

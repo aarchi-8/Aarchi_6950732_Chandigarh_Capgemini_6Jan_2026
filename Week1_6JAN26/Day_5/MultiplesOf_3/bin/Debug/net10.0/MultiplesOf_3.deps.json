@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MultiplesOf_3/1.0.0": {
+        "runtime": {
+          "MultiplesOf_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplesOf_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

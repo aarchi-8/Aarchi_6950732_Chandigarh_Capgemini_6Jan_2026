@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\bin\Debug\net10.0\Roman to decimal.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\bin\Debug\net10.0\Roman to decimal.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\bin\Debug\net10.0\Roman to decimal.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\bin\Debug\net10.0\Roman to decimal.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\bin\Debug\net10.0\Roman to decimal.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\refint\Roman to decimal.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\Roman to decimal.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week4_27Jan,2026\Day_21\Roman to decimal\obj\Debug\net10.0\ref\Roman to decimal.dll

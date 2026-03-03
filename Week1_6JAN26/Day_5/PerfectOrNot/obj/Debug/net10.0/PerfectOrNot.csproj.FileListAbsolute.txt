@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\bin\Debug\net10.0\PerfectOrNot.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\bin\Debug\net10.0\PerfectOrNot.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\bin\Debug\net10.0\PerfectOrNot.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\bin\Debug\net10.0\PerfectOrNot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\bin\Debug\net10.0\PerfectOrNot.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\refint\PerfectOrNot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\PerfectOrNot.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\PerfectOrNot\obj\Debug\net10.0\ref\PerfectOrNot.dll

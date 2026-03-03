@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\bin\Debug\net10.0\ConsoleAppCU.exe
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\bin\Debug\net10.0\ConsoleAppCU.deps.json
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\bin\Debug\net10.0\ConsoleAppCU.runtimeconfig.json
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\bin\Debug\net10.0\ConsoleAppCU.dll
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\bin\Debug\net10.0\ConsoleAppCU.pdb
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.AssemblyInfo.cs
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.dll
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\refint\ConsoleAppCU.dll
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.pdb
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ConsoleAppCU.genruntimeconfig.cache
+C:\Users\Aarchi\source\Aarchi_capgemini\ConsoleAppCU\obj\Debug\net10.0\ref\ConsoleAppCU.dll

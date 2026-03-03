@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\refint\ProductOfDigits.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week1_6JAN26\Day_5\ProductOfDigits\obj\Debug\net10.0\ref\ProductOfDigits.dll

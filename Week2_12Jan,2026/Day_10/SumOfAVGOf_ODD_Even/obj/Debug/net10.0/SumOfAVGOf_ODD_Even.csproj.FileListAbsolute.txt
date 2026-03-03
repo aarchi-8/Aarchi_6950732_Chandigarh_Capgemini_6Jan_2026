@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\bin\Debug\net10.0\SumOfAVGOf_ODD_Even.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\bin\Debug\net10.0\SumOfAVGOf_ODD_Even.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\bin\Debug\net10.0\SumOfAVGOf_ODD_Even.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\bin\Debug\net10.0\SumOfAVGOf_ODD_Even.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\bin\Debug\net10.0\SumOfAVGOf_ODD_Even.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\refint\SumOfAVGOf_ODD_Even.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\SumOfAVGOf_ODD_Even.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week2_12Jan,2026\Day_10\SumOfAVGOf_ODD_Even\obj\Debug\net10.0\ref\SumOfAVGOf_ODD_Even.dll

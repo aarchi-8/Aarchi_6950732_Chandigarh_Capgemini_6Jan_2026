@@ -1,0 +1,14 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\bin\Debug\net10.0\electricity bill.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\bin\Debug\net10.0\electricity bill.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\bin\Debug\net10.0\electricity bill.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\bin\Debug\net10.0\electricity bill.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\bin\Debug\net10.0\electricity bill.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\refint\electricity bill.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\electricity bill.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week5_02Feb,2026\Day_25\electricity bill\obj\Debug\net10.0\ref\electricity bill.dll
