@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.quiz-container {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.optionBtn {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.correct {
+    background-color: lightgreen;
+}
+
+.wrong {
+    background-color: lightcoral;
+}

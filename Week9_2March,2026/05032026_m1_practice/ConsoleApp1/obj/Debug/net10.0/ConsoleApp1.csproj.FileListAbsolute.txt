@@ -1,0 +1,15 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

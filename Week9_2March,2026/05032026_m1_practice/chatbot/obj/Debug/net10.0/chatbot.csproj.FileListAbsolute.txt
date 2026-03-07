@@ -1,0 +1,15 @@
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\bin\Debug\net10.0\chatbot.exe
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\bin\Debug\net10.0\chatbot.deps.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\bin\Debug\net10.0\chatbot.runtimeconfig.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\bin\Debug\net10.0\chatbot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\bin\Debug\net10.0\chatbot.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.AssemblyInfoInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.AssemblyInfo.cs
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.sourcelink.json
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\refint\chatbot.dll
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.pdb
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\chatbot.genruntimeconfig.cache
+C:\Users\Aarchi\source\Capgemini_CU_Sec3_dotnetwithazure_Aarchi\Week9_2March,2026\05032026_m1_practice\chatbot\obj\Debug\net10.0\ref\chatbot.dll

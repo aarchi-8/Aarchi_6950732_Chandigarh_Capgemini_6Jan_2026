@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+input{
+    padding: 10px;
+    width: 60%;
+    margin-right: 5px;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.weather-card{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 18px;
+}
