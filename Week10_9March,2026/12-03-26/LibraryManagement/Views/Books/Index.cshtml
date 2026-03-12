@@ -1,0 +1,24 @@
+﻿@model IEnumerable<LibraryManagement.Models.Book>
+
+<h2>Book List</h2>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        
+        <th>Action</th>
+    </tr>
+
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.Id</td>
+            <td>@book.Title</td>
+            
+            <td>
+                <a asp-controller="Books" asp-action="Details" asp-route-id="@book.Id">View</a>
+            </td>
+        </tr>
+    }
+</table>
